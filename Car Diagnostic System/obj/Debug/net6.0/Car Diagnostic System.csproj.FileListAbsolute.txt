@@ -1,0 +1,15 @@
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\bin\Debug\net6.0\Car Diagnostic System.exe
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\bin\Debug\net6.0\Car Diagnostic System.deps.json
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\bin\Debug\net6.0\Car Diagnostic System.runtimeconfig.json
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\bin\Debug\net6.0\Car Diagnostic System.dll
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\bin\Debug\net6.0\Car Diagnostic System.pdb
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\Car Diagnostic System.csproj.AssemblyReference.cache
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\Car Diagnostic System.GeneratedMSBuildEditorConfig.editorconfig
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\Car Diagnostic System.AssemblyInfoInputs.cache
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\Car Diagnostic System.AssemblyInfo.cs
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\Car Diagnostic System.csproj.CoreCompileInputs.cache
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\Car Diagnostic System.dll
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\refint\Car Diagnostic System.dll
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\Car Diagnostic System.pdb
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\Car Diagnostic System.genruntimeconfig.cache
+D:\University 2022-2023\KV7003 - AI and Digital Technology\Week 03\Car Diagnostic System\obj\Debug\net6.0\ref\Car Diagnostic System.dll
